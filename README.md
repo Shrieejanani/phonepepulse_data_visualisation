@@ -2,7 +2,7 @@
 
 Project Title : Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
 
-[DEMO LINK](http://localhost:8501/)
+[DEMO LINK](http://192.168.1.4:8503)
 
 Technologies : Github Cloning, Python, Pandas, MySQL, mysql-connector-python, Streamlit, and Plotly.
 
